@@ -75,3 +75,4 @@ client.on('messageCreate', (message) => {
 
 server.listen();
 client.login(process.env.BOT_TOKEN);
+// Mbuh Gak ruh
